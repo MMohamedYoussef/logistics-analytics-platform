@@ -1,0 +1,10 @@
+{
+  "source_shipments": 600,
+  "fact_shipments": 600,
+  "source_cost_usd": 14180.77,
+  "fact_cost_usd": 14180.77,
+  "cost_difference_usd": 0.0,
+  "on_time_pct": 55.67,
+  "returns": 40,
+  "missing_dimension_keys": 0
+}
